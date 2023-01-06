@@ -1,5 +1,5 @@
 /**
- * @date : 28 nov 2022
+ * @date : 28 nov 2022 zizi
  * @author A. Casali
  * @synopisis : construction de la spirale de ULAM en coordonées carétsiennes : https://fr.wikipedia.org/wiki/Spirale_d%27Ulam
  **/
